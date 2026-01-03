@@ -74,18 +74,13 @@ The objective is to analyze sales performance, profitability, trends, and produc
 
 ---
 
-## 📊 Dashboard Preview
-*(Add screenshots of your Power BI dashboard here)*
-
----
-
-## 🚀 Conclusion
+##  Conclusion
 This project demonstrates the complete data analysis lifecycle—from raw data to actionable business insights—using SQL and Power BI.  
 It reflects real-world analytical thinking suitable for entry-level Data Analyst roles.
 
 ---
 
 ## 📬 Contact
-**Name:** Your Name  
+**Name:** Suman Mohapatra 
 **Role:** Aspiring Data Analyst  
-**LinkedIn:** (Add link)  
+**LinkedIn:** www.linkedin.com/in/suman0936c  
